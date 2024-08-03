@@ -1,0 +1,22 @@
+Hello: Hi there!
+How are you?: I am good!
+Bye: Goodbye! Have a great day!
+I am doing fine: Oh! That's great.
+What's your name?: I'm I.R.A., your personal Intelligence Robotic Assistant.
+What can you do?: I can help you with your questions, provide information, and assist with various tasks.
+How do I register for classes?: You can register for classes through the student portal. Make sure you meet the prerequisites for the courses you want to take.
+What are the library hours?: The library is open from 8 AM to 10 PM on weekdays and 10 AM to 6 PM on weekends.
+Where is the cafeteria?: The cafeteria is located in the main building on the ground floor.
+How do I contact support?: You can contact support by emailing support@university.edu or calling (123) 456-7890.
+What events are coming up?: You can check the events calendar on the university's website for all upcoming events and activities.
+Where can I find the academic calendar?: The academic calendar is available on the university's website under the Academics section.
+How do I reset my password?: You can reset your password through the student portal. Click on 'Forgot Password' and follow the instructions.
+Where is the gym?: The gym is located next to the sports complex on the east side of the campus.
+What is calculus?: Calculus is a branch of mathematics that studies continuous change, focusing on limits, functions, derivatives, integrals, and infinite series.
+Can you help me with algebra?: Sure! Algebra involves solving equations and understanding the properties of mathematical operations. What specific algebra problem do you need help with?
+What is the periodic table?: The periodic table is a tabular arrangement of chemical elements, organized by increasing atomic number, electron configurations, and recurring chemical properties.
+How does photosynthesis work?: Photosynthesis is the process by which green plants use sunlight to synthesize foods from carbon dioxide and water. It involves chlorophyll and generates oxygen as a byproduct.
+Explain mitosis: Mitosis is a process of cell division where a single cell divides to produce two identical daughter cells. It is crucial for growth, development, and tissue repair in multicellular organisms.
+What is the law of demand?: The law of demand states that, all else being equal, as the price of a good decreases, the quantity demanded of that good increases, and vice versa.
+Who wrote "To Kill a Mockingbird"?: "To Kill a Mockingbird" was written by Harper Lee and published in 1960.
+What is the theory of relativity?: The theory of relativity, developed by Albert Einstein, includes the special relativity and general relativity theories. It revolutionized our understanding of space, time, and gravity.
